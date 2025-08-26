@@ -1,9 +1,5 @@
 title: Álvaro's Portfolio
 description: Data Analyst Portfolio showcasing Excel, SQL, Power BI and Python projects.
-show_downloads: true
-baseurl: "" # leave empty for root
-url: "https://AlvaroNavR.github.io"
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-markdown: kramdown
