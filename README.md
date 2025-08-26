@@ -29,7 +29,7 @@ The purpose of this portfolio is to showcase my ability to:
 
 This portfolio is hosted on **GitHub Pages**:
 
-[Visit My Portfolio](https://AlvaroNavR.github.io)
+[Visit My Portfolio](https://AlvaroNavR.github.io///Data-Portfolio)
 
 - Click on any project card to view its detailed page.  
 - Each project contains interactive dashboards, screenshots, and downloadable files.
