@@ -12,12 +12,10 @@ Analyze sales trends, busiest hours, and revenue drivers for a fictitious coffee
 
 ## Key Findings
 
-![Coffee Shop Trend](assets/images/dashboard.png){: .card-image }
+![Coffee Shop Trend](assets/images/dashboard.png)
 
 - **Peak Hours:** Morning rush (8–10am) is highest across locations; weekdays outperform weekends.  
-- **Revenue Drivers:** Coffee & tea are top sellers; Average Order Value (AOV) is highest at Lower Manhattan.  
-
-{: .section-card }
+- **Revenue Drivers:** Coffee & tea are top sellers; Average Order Value (AOV) is highest at Lower Manhattan.
 
 ---
 
@@ -25,9 +23,7 @@ Analyze sales trends, busiest hours, and revenue drivers for a fictitious coffee
 
 Interact with the dashboard to explore sales, top products, and store trends:
 
-[🔗 View Interactive Power BI Report](https://app.powerbi.com/groups/me/reports/b7c807e9-af31-4223-80ae-7e0f362b70ef/366d73b568949376e400?experience=power-bi){: .btn }
-
-{: .section-card }
+[🔗 View Interactive Power BI Report](https://app.powerbi.com/groups/me/reports/b7c807e9-af31-4223-80ae-7e0f362b70ef/366d73b568949376e400?experience=power-bi)
 
 ---
 
@@ -38,5 +34,3 @@ Interact with the dashboard to explore sales, top products, and store trends:
 - [SQL Schema](sql/coffee_shop_sales.sql) | [Analysis Queries](sql/coffee_shop_sales_analysis.sql)  
 - [Python/MySQL Connector](python/csv_loading.ipynb)  
 - [README](README.md)
-
-{: .section-card }
