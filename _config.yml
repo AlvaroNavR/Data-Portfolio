@@ -1,5 +1,5 @@
-title: Álvaro Navarro Rubio Portfolio
-description: Data Analyst Portfolio showcasing Excel, SQL, Power BI and Python projects.
+title: [Álvaro's Portfolio]
+description: [Data Analyst Portfolio showcasing Excel, SQL, Power BI and Python projects.]
 baseurl: "" # leave empty for root
 url: "https://AlvaroNavR.github.io"
 remote_theme: pages-themes/architect@v0.2.0
