@@ -2,32 +2,117 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Ficticious Coffee Shop Analytics – Portfolio</title>
+  <title>Fictitious Coffee Shop Analytics – Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>body{font-family:system-ui;margin:2rem;max-width:900px} iframe{width:100%;height:650px;border:0}</style>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    /* Reset & Body */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    a { text-decoration: none; color: #007acc; transition: color 0.2s; }
+    a:hover { color: #005f99; }
+
+    /* Container */
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #6f4e37;
+      color: #fff;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    header h1 { margin: 0; font-size: 2.5rem; }
+    header p { margin-top: 0.5rem; font-size: 1.1rem; }
+
+    /* Sections */
+    section {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s;
+    }
+    section:hover { transform: translateY(-3px); }
+
+    h2 { color: #6f4e37; margin-top: 0; }
+
+    ul { padding-left: 1.2rem; }
+
+    /* Buttons */
+    .btn {
+      display: inline-block;
+      background: #007acc;
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      margin-top: 0.5rem;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: #005f99; }
+
+    /* Iframe */
+    iframe {
+      width: 100%;
+      height: 650px;
+      border: none;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      margin-top: 1rem;
+    }
+
+    /* Project Links */
+    .project-links li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
 </head>
 <body>
-  <h1>Coffee Shop Analytics</h1>
-  <p>Dataset: Coffee Shop Sales (Maven Roasters). See the original description and recommended questions.</p>
+  <div class="container">
+    <header>
+      <h1>Coffee Shop Analytics</h1>
+      <p>Dataset: Coffee Shop Sales (Maven Roasters). Explore sales trends and key insights.</p>
+    </header>
 
-  <h2>Key Findings</h2>
-  <ul>
-    <li>Morning rush (8–10am) is peak across locations; weekdays > weekends.</li>
-    <li>Top revenue drivers: coffee & tea; AOV highest at Lower Manhattan.</li>
-  </ul>
+    <section>
+      <h2>Key Findings</h2>
+      <ul>
+        <li>Morning rush (8–10am) is peak across locations; weekdays have higher sales than weekends.</li>
+        <li>Top revenue drivers: coffee & tea; Average Order Value (AOV) is highest at Lower Manhattan.</li>
+      </ul>
+    </section>
 
-  <h2>Live Power BI Report</h2>
-  <a href="https://app.powerbi.com/groups/me/reports/b7c807e9-af31-4223-80ae-7e0f362b70ef/366d73b568949376e400?experience=power-bi" target="_blank">
-   🔗 View Interactive Power BI Report
-  </a>
+    <section>
+      <h2>Live Power BI Report</h2>
+      <p>Interact with the dashboard to explore sales, top products, and store trends:</p>
+      <a href="https://app.powerbi.com/groups/me/reports/b7c807e9-af31-4223-80ae-7e0f362b70ef/366d73b568949376e400?experience=power-bi" target="_blank" class="btn">
+        🔗 View Interactive Power BI Report
+      </a>
+    </section>
 
-  <h2>Project Files</h2>
-  <ul>
-    <li><a href="Coffee-Shop-Sales-Analysis-2.xlsx">Excel dashboard</a></li>
-    <li><a href="powerbi/coffee_shop_sales_analysis.pbix">Power BI (.pbix)</a></li>
-    <li><a href="sql/coffee_shop_sales.sql">SQL schema</a> | <a href="coffee_shop_sales_analysis.sql">analysis queries</a></li>
-    <li><a href="python/csv_loading.ipynb">Python/MySQL connector</a></li>
-    <li><a href="README.md">README</a></li>
-  </ul>
+    <section>
+      <h2>Project Files</h2>
+      <ul class="project-links">
+        <li><a href="Coffee-Shop-Sales-Analysis-2.xlsx">Excel dashboard</a></li>
+        <li><a href="powerbi/coffee_shop_sales_analysis.pbix">Power BI (.pbix)</a></li>
+        <li><a href="sql/coffee_shop_sales.sql">SQL schema</a> | <a href="coffee_shop_sales_analysis.sql">Analysis queries</a></li>
+        <li><a href="python/csv_loading.ipynb">Python/MySQL connector</a></li>
+        <li><a href="README.md">README</a></li>
+      </ul>
+    </section>
+  </div>
 </body>
 </html>
