@@ -33,7 +33,7 @@ Interact with the dashboard to explore sales, top products, and store trends:
 
 ## Project Files
 
-- [Excel Dashboard](Coffee-Shop-Sales-Analysis-2.xlsx)  
+- [Excel Dashboard](excel/Coffee-Shop-Sales-Analysis-2.xlsx)  
 - [Power BI File (.pbix)](powerbi/coffee_shop_sales_analysis.pbix)  
 - [SQL Schema](sql/coffee_shop_sales.sql) | [Analysis Queries](coffee_shop_sales_analysis.sql)  
 - [Python/MySQL Connector](python/csv_loading.ipynb)  
