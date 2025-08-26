@@ -2,23 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+
+  <!-- Header -->
   <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-    <hr>
+    <div class="container">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
   </header>
 
-  <main>
+  <!-- Main Content -->
+  <main class="container">
     {{ content }}
   </main>
 
+  <!-- Footer -->
   <footer>
-    <hr>
-    <p>© 2025 Álvaro Navarro Rubio</p>
+    <div class="container">
+      <p>© 2025 Álvaro Navarro Rubio | <a href="mailto:alvaro.nav19@gmail.com">Contact</a></p>
+    </div>
   </footer>
+
 </body>
 </html>
