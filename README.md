@@ -58,4 +58,4 @@ This portfolio content is open for educational and professional reference. You a
 ## 🧑‍💻 About Me
 
 Hi! I’m Álvaro, a physics graduate with a passion for data analysis, machine learning, and complex systems.
-[Visit My LinkedIn Profile] (https://www.linkedin.com/in/%C3%A1lvaro-navarro-rubio-097908377/)
+[Visit My LinkedIn Profile](https://www.linkedin.com/in/%C3%A1lvaro-navarro-rubio-097908377/)
