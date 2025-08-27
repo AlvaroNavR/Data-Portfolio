@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Álvaro's Data Analyst Portfolio
-
 Welcome to my data analytics portfolio! Explore my projects showcasing skills in **Excel, SQL, Power BI, and Python**.
 
 ---
