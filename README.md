@@ -54,3 +54,8 @@ This portfolio is hosted on **GitHub Pages**:
 ## 📜 License
 
 This portfolio content is open for educational and professional reference. You are free to view, fork, and adapt the repository for learning purposes.
+
+## 🧑‍💻 About Me
+
+Hi! I’m Álvaro, a physics graduate with a passion for data analysis, machine learning, and complex systems.
+[Visit My LinkedIn Profile] (https://www.linkedin.com/in/%C3%A1lvaro-navarro-rubio-097908377/)
