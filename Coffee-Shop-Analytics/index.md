@@ -5,7 +5,7 @@ title: Coffee Shop Analytics
 
 # Coffee Shop Analytics
 
-**Dataset:** *Coffee Shop Sales (Maven Roasters)*  
+**Dataset:** [*Coffee Shop Sales (Maven Roasters)*](https://mavenanalytics.io/data-playground/coffee-shop-sales) 
 
 Analyze sales trends, busiest hours, and revenue drivers for a fictitious coffee shop chain.
 
