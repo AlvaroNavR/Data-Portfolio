@@ -47,7 +47,7 @@ This portfolio is hosted on **GitHub Pages**:
 
 ## 📌 Notes
 
-- Power BI dashboards are not embeded, they are link-referenced for viewing on Power BI Service.  
+- Power BI dashboards are not embeded, they are link-referenced to Power BI Service.  
 
 ---
 
