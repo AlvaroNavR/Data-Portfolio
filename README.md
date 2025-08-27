@@ -1,6 +1,6 @@
 # Álvaro Navarro Rubio - Data Analyst Portfolio
 
-Welcome to my data analytics portfolio! This repository hosts my projects showcasing skills in **Excel, SQL, Power BI, Python**. Each project demonstrates real-world data analysis workflows, from cleaning and exploring data to building dashboards and extracting actionable insights.
+Welcome to my data analytics portfolio! This repository hosts my projects showcasing skills in **Excel, SQL, Power BI, Python**.
 
 ---
 
@@ -17,7 +17,7 @@ The purpose of this portfolio is to showcase my ability to:
 ## 🖥️ Featured Projects
 
 1. **Ficticious Coffee Shop Sales Analytics**  
-   - **Description:** Analysis of a coffee shop sales dataset to answer business questions like “when are stores busiest?” and “what products generate the most revenue?”  
+   - **Description:** Analysis of a ficticious coffee shop sales dataset to answer business questions like “when are stores busiest?” and “what products generate the most revenue?”  
    - Tools used: Excel, SQL (MySQL Workbench), Python (Ipython Notebook) and Power BI  
    - Interactive dashboards and visualizations highlight sales trends, busiest hours, top products, and Average Order Value (AOV).
 
