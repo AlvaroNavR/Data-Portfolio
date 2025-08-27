@@ -34,5 +34,5 @@ Explore sales, top products, and store trends in the interactive dashboard:
 - [📈 Power BI File (.pbix)](powerbi/coffee_shop_sales_analysis.pbix)  
 - [🗄️ SQL Schema](sql/coffee_shop_sales.sql)  
 - [🔎 Analysis Queries](sql/coffee_shop_sales_analysis.sql)  
-- [🐍 Python/MySQL Connector](python/csv_loading.ipynb)  
+- [🐍 Python/MySQL Connector](python/csv_loading.py)  
 - [📄 README](README.md)
