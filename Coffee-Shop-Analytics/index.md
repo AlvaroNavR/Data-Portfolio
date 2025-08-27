@@ -13,7 +13,7 @@ Analyze sales trends, busiest hours, and revenue drivers for a fictitious coffee
 
 ## Key Findings
 
-![Coffee Shop Trend](assets/images/dashboard.png)
+![Coffee Shop Trends](assets/images/dashboard.png)
 
 - **Peak Hours:** Morning rush (8–10am) is highest across locations; weekdays outperform weekends.  
 - **Revenue Drivers:** Coffee & tea are top sellers. Average Order Value (AOV) is highest at *Lower Manhattan*.

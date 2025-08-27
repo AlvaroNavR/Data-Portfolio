@@ -24,7 +24,8 @@ The purpose of this portfolio is to showcase my ability to:
 
 ### Coffee Shop Sales Analytics
 
-![Coffee Shop Dashboard](assets/images/coffee_shop_dashboard.png)
+![Coffee Shop Dashboard]<img src="assets/images/coffee_shop_dashboard.png" alt="Coffee Shop Trend" width="100">
+
 
 Analyze sales trends, busiest hours, and revenue drivers for a fictitious coffee shop chain.
 
